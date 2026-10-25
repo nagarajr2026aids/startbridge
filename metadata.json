@@ -1,0 +1,6 @@
+{
+  "name": "StartBridge",
+  "description": "Platform connecting student and early-stage startup developers with investors across healthcare, education, agriculture, environment, and tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
